@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #FF8BB5;
+background: url("https://subtlepatterns.com/patterns/seigaiha.png");
     font-family: 'Roboto', sans-serif; 
 }
 article p{
@@ -14,6 +14,7 @@ article p{
 	padding-left: 30%;
 	padding-right: 200px;
     height: 600px;
+	color: #FF8BB5;
     width: 80%;
     text-align: center;
 	font-size: 300%;
@@ -23,7 +24,7 @@ footer {
     height: 50px;
     width: 100%;
     margin-top: 10px;
-    background: #BF90E4;
+    border-color: black;
     position: fixed;
     font-size: 15px;
     padding-top: 5px;
