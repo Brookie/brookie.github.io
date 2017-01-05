@@ -31,3 +31,7 @@ footer {
     text-align: center;
     font-family: 'Roboto', sans-serif; 
 }
+
+p {
+	background-image: url('https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif');
+}
