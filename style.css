@@ -15,7 +15,7 @@ a {
 	padding-bottom: 0;
 }
 
-article p{
+#msg{
 		border: 2px solid #FF8BB5;
 		padding-left: 10px;
 		padding-right: 10px;
@@ -37,7 +37,7 @@ footer {
 }
 
 .centered {
-  position: absolute;
+  position: fixed; /* y u do dis */
   top: 40%;
   text-align: center;
   left: 40%;
@@ -48,4 +48,3 @@ footer {
 	width: 320px; 
 	margin: 20px auto;
 }
-
