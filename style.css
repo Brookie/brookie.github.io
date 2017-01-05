@@ -5,18 +5,16 @@
 }
 
 body {
-background: url("https://subtlepatterns.com/patterns/seigaiha.png");
     font-family: 'Roboto', sans-serif; 
 }
-article p{
-    padding-top: 18.5%;
-    padding-bottom: 20px;
+article {
+ 	padding-top: 18.5%;
+	padding-bottom: 20px;
 	padding-left: 30%;
 	padding-right: 200px;
-    height: 600px;
-	color: #FF8BB5;
-    width: 80%;
-    text-align: center;
+	height: 600px;
+	width: 80%;
+    	text-align: center;
 	font-size: 300%;
 }
 footer {
@@ -35,4 +33,5 @@ footer {
 
 p {
 	background-image: url("https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif");
+	color: #FF8BB5;
 }
