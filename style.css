@@ -37,11 +37,10 @@ footer {
 }
 
 .centered {
-  position: ;
+  position: absolute;
   top: 40%;
   text-align: center;
   left: 40%;
-  right: 40%;
 
 }
 #content {
