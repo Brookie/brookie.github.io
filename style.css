@@ -9,13 +9,6 @@ body {
     font-family: 'Roboto', sans-serif;
 	color: #FF8BB5;
 }
-#msg{
-	border: 2px solid #FF8BB5;
-	padding-left: 10px;
-	padding-right: 10px;
-    text-align: center;
-	font-size: 30px;
-}
 a {
 	text-align: center;
 	font-size: 80%;
@@ -35,7 +28,7 @@ footer {
 }
 
 .centered {
-  position: fixed; /* or absolute */
+  position: ; /* or absolute */
   top: 40%;
   text-align: center;
   left: 40%;
