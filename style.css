@@ -5,7 +5,8 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif; 
+	font-family: 'Roboto', sans-serif; 
+	background: none;	
 }
 article {
  	padding-top: 18.5%;
@@ -32,6 +33,5 @@ footer {
 }
 
 p {
-	background-image: url("https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif");
 	color: #FF8BB5;
 }
