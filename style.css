@@ -37,11 +37,16 @@ footer {
 }
 
 .centered {
-  position: fixed; /* y u do dis */
+  position: ;
   top: 40%;
   text-align: center;
   left: 40%;
+  right: 40%;
 
 }
-#content {text-align: center; width: 320px; margin: 20px auto;}
+#content {
+	text-align: center; 
+	width: 320px; 
+	margin: 20px auto;
+}
 
