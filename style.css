@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url("https://subtlepatterns.com/patterns/seigaiha.png");
+    background-image: url('https://subtlepatterns.com/patterns/seigaiha.png');
     font-family: 'Roboto', sans-serif; 
 }
 article p{
