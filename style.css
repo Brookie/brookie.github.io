@@ -5,8 +5,7 @@
 }
 
 body {
-    background-image: url(/images/seigaiha.png);
-    font-family: 'Roboto', sans-serif;
+   	font-family: 'Roboto', sans-serif;
 	color: #FF8BB5;
 }
 article p{
@@ -39,5 +38,6 @@ footer {
   top: 40%;
   text-align: center;
   left: 40%;
+	right: 40%;
 }
 
