@@ -1,1 +1,2 @@
-# brookyomi.github.io
+# jan 5, 2017 
+hi keifoo!!!!!!!
