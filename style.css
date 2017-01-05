@@ -33,5 +33,9 @@ footer {
 }
 
 p {
-	color: #FF8BB5;
+	border: 2px solid #FF8BB5;
+	padding-left: 10px;
+	padding-right: 10px;
+    	text-align: center;
+	font-size: 30px;
 }
