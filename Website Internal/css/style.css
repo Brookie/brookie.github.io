@@ -1,0 +1,171 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Hind', sans-serif;
+}
+
+body {
+	background-image: url(/img/style-img/topography.png);
+	margin-top: 50px;
+}
+
+
+/* Custom Twitter Widget Styling */
+
+.twitter-timeline {
+	max-width: 50%;
+	width: 30%;
+	max-height: 390px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.timeline-Header-title {
+	color: #DDAE7E!importantx;
+	font: 'Hind', sans-serif;
+}
+
+
+/* Custom Gallery/Image Styling */
+
+.caption {
+	height: 260px;
+	border-radius: 8px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.thumbnail>img {
+	border-radius: 5px;
+}
+
+.carousel-img {
+	height: 100%;
+	max-width: 1000px;
+	width: 100%;
+	border-image-width: auto;
+	border-radius: 8px;
+}
+
+.grid-item {
+	width: 400px;
+	margin-bottom: 5px;
+}
+
+.grid-item-200 {
+	width: 200px;
+	padding: 0px;
+}
+
+.grid-item>img {
+	width: 100%;
+}
+
+.grid {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	width: 100%;
+	padding-left: 60px;
+}
+
+@media screen and (max-width: 414px) {
+	.grid-item {
+		width: 100.5%;
+	}
+	.cointainer {
+		padding-top: 20px;
+	}
+	.grid {
+		padding-left: 0;
+	}
+}
+
+@media screen and (max-width: 990px) {
+	.grid-item {
+		width: 100.5%;
+	}
+	.cointainer {
+		padding-top: 20px;
+	}
+	.grid {
+		padding-left: 0;
+	}
+}
+
+.gallery {
+	padding-bottom: 0;
+	padding-top: 50px;
+}
+
+
+/* Custom Class Styling */
+
+.text-container {
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+..col-md-4 {
+	width: 200px!important;
+}
+
+
+}
+.front_page {
+	max-height: 500px;
+	padding-top: 100px;
+}
+.carousel-img {
+	height: 100%;
+	max-width: 1000px;
+	width: 100%;
+	border-image-width: auto;
+	border-radius: 8px;
+}
+.u-floatLeft {
+	color: none;
+}
+
+/* Custom Text Styling */
+p {
+	font-size: 16px;
+	color: #696D7D;
+}
+h1,
+h2,
+h3 {
+	color: #DDAE7E;
+}
+.footer {
+	text-align: center;
+	font-size: 18px;
+}
+
+/* Custom Navigation Styling */
+.navbar-inverse {
+	opacity: 0.8;
+	min-width: 100%;
+}
+.navbar-inverse,
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form .navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-toggle {
+	animation-name: backgroundAnim;
+	border-radius: 0px;
+	border: none!important;
+	animation-duration: 40s;
+	animation-iteration-count: infinite;
+	color: white;
+	background-color: #ACBEA3!important;
+}
+.navbar-inverse .navbar-nav>li>a,
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover p {
+	background-color: #ACBEA3!important;
+}
